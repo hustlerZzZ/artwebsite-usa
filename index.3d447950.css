@@ -2104,6 +2104,8 @@ video {
     color: #fff;
     background-color: #ea4235;
     border: none;
+    font-size: 1.2rem;
+    font-weight: 700;
     margin: 2rem auto;
     padding: 1rem
 }
