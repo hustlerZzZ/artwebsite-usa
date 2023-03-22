@@ -1718,6 +1718,7 @@ body {
 
 .success-container__1 {
     width: 50%;
+    padding: 1rem;
 }
 
 .success-container__1 img {
@@ -1727,7 +1728,7 @@ body {
 
 .success-container__2 {
     width: 50%;
-    margin: 1.4rem;
+    margin: 1.65rem;
     background-color: #C9EEFF;
 }
 
