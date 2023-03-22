@@ -71,7 +71,7 @@ body {
 
 .nav-img {
     width: 12rem;
-    margin-left: 2rem
+    margin-left: 2rem;
 }
 
 @media only screen and (max-width:48em) {
@@ -1529,7 +1529,7 @@ body {
 }
 
 .career-container {
-    background-color: #fcf3e6
+    background-color: #fcf3e6;
 }
 
 .career-container h1 {
@@ -1674,7 +1674,7 @@ body {
 
 .success-content h1 {
     text-align: center;
-    font-size: 4rem;
+    font-size: 2.5rem;
     font-weight: 700
 }
 
@@ -1946,6 +1946,12 @@ video {
     padding: 1rem
 }
 
+.form-heading__form select {
+    width: 70%;
+    margin: .5rem auto;
+    padding: 1rem
+}
+
 @media only screen and (max-width:121em) {
     .form-heading__form input {
         width: 70%
@@ -2169,4 +2175,4 @@ video {
     font-size: 1rem
 }
 
-/*# sourceMappingURL=index.3d447950.css.map */
+/*# sourceMappingURL=index.d307fbb8.css.map */
