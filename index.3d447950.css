@@ -430,8 +430,8 @@ body {
     background-color: #ea4235;
     border: none;
     padding: 1rem 2rem;
-    font-size: 1rem;
-    font-weight: 700
+    font-size: 1.2rem;
+    font-weight: 700;
 }
 
 @media only screen and (max-width:75em) {
@@ -1734,7 +1734,7 @@ body {
 
 .success-container__2 h2 {
     padding: 1rem;
-    font-size: 1rem;
+    font-size: 2rem;
     text-align: start;
     font-weight: 400;
 }
@@ -1791,6 +1791,10 @@ body {
         margin: 0;
         background-color: #C9EEFF;
     }
+
+    .success-container__2 h2 {
+        font-size: 1.5rem;
+    }
 }
 
 @media only screen and (max-width:26.56em) {
@@ -1809,6 +1813,10 @@ body {
         margin: 0;
         background-color: #C9EEFF;
     }
+
+    .success-container__2 h2 {
+        font-size: 1rem;
+    }
 }
 
 @media only screen and (max-width:20em) {
@@ -1826,6 +1834,10 @@ body {
         width: 100%;
         margin: 0;
         background-color: #C9EEFF;
+    }
+
+    .success-container__2 h2 {
+        font-size: 1rem;
     }
 }
 
@@ -2104,9 +2116,9 @@ video {
     width: 20%;
     color: #fff;
     background-color: #ea4235;
-    border: none;
     font-size: 1.2rem;
     font-weight: 700;
+    border: none;
     margin: 2rem auto;
     padding: 1rem
 }
